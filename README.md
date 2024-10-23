@@ -4,11 +4,11 @@ This is a simple Streamlit web application that uses a pre-trained deep learning
 Features
 1. Gender (Male/Female)
 2. Age
-BMI
-Blood Pressure
-Glucose Level
+3. BMI
+4. Blood Pressure
+5. Glucose Level
 
 How to Run
-Install required packages: pip install streamlit tensorflow
-Run the app: streamlit run diabetes_app.py
-Enter patient information and click Predict to see the prediction.
+1. Install required packages: pip install streamlit tensorflow
+2. Run the app: streamlit run diabetes_app.py
+3. Enter patient information and click Predict to see the prediction.
