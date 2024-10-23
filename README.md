@@ -2,8 +2,8 @@
 
 This is a simple Streamlit web application that uses a pre-trained deep learning model to predict whether a patient is likely to have diabetes based on input features.
 Features
-Gender (Male/Female)
-Age
+1. Gender (Male/Female)
+2. Age
 BMI
 Blood Pressure
 Glucose Level
